@@ -1,0 +1,20 @@
+		Information Of Vehicle
+
+Vehicle      : Bike
+Company      : Yamaha
+Model        : Supra
+Mileage      : 80.25
+Price        : 300000
+Description  : Excellent
+Seller Name  : Neelum
+Contact      : 132654
+Fuel Type    : Petrol
+Engine       : X96X
+Rating       : 9
+Make Year    : 2021
+Available In City  : Islamabad
+Color        : Black
+
+
+
+

@@ -1,0 +1,7 @@
+Name            : Ahmed
+Father's Name   : Ali
+Date Of Birth   : 16122003
+Age             : 59
+CNIC            : 37405-254879-8
+Nationality     : Pakistani
+Status          : Married

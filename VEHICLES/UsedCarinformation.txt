@@ -1,0 +1,15 @@
+Car
+Toyota
+Altis
+25.83
+320000
+Good
+Rizwan
+214459
+Petrol
+9SX2
+7.5
+2014
+Sarghoda
+Grey
+

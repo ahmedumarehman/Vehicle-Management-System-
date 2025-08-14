@@ -1,0 +1,6 @@
+
+	BASIC INFORMATION OF CAR
+
+Car   : potty
+Model : potn
+Year  : 4853

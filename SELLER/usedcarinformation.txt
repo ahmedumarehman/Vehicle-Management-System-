@@ -1,0 +1,20 @@
+		Information Of Vehicle
+
+Vehicle      : Car
+Company      : BMW
+Model        : P98
+Mileage      : 20.15
+Price        : 250000
+Description  : Good
+Seller Name  : Saad
+Contact      : 745236
+Fuel Type    : Petrol
+Engine       : M41O
+Rating       : 7
+Make Year    : 2014
+Available In City  : Islamabad
+Color        : Black
+
+
+
+

@@ -1,0 +1,7 @@
+Name            : 1
+Father's Name   : 2
+Date Of Birth   : 3
+Age             : 4
+CNIC            : 5
+Nationality     : 6
+Status          : 7

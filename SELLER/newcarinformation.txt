@@ -1,0 +1,20 @@
+		Information Of Vehicle
+
+Vehicle      : Sports
+Company      : Ferrari
+Model        : S8
+Mileage      : 32.69
+Price        : 750000
+Description  : Superb
+Seller Name  : Nawal
+Contact      : 222223
+Fuel Type    : Diesel
+Engine       : M98H
+Rating       : 10
+Make Year    : 2022
+Available In City  : Islamabad
+Color        : Red
+
+
+
+

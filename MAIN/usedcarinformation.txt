@@ -1,0 +1,15 @@
+Car
+BMW
+P98
+20.15
+250000
+Good
+Saad
+745236
+Petrol
+M41O
+7
+2014
+Islamabad
+Black
+

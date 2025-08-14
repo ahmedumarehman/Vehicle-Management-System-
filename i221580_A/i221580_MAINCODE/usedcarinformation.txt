@@ -1,0 +1,15 @@
+Car
+Suzuki
+Alto
+21.54
+270000
+Excellent
+Imam
+211097
+Diesel
+8LK9
+8.5
+2019
+Islamabad
+White
+

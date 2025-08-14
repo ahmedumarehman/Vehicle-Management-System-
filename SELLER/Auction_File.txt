@@ -1,0 +1,20 @@
+		Information Of Vehicle
+
+Vehicle      : 1
+Company      : 2
+Model        : 3
+Mileage      : 4
+Price        : 5
+Description  : 6
+Seller Name  : 7
+Contact      : 8
+Fuel Type    : 8
+Engine       : 9
+Rating       : 9
+Make Year    : 8
+Available In City  : 6
+Color        : 2
+
+
+
+

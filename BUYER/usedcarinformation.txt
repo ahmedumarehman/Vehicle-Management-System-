@@ -1,0 +1,15 @@
+Car
+BMW
+M83
+19.15
+320000
+Excellent
+Babar
+654321
+Petrol
+P98J
+7.5
+2017
+Rawalpindi
+White
+
